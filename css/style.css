@@ -505,11 +505,11 @@ header .container nav ul li .megamenu .links li a i {
   height: 200px;
 }
 .article::before {
-  right: 0;
+  left: 0;
   top: 150px;
 }
 .article::after {
-  left: 0;
+  right: 0;
   bottom: 120px;
 }
 @media (max-width: 767px) {
